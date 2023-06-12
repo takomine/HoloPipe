@@ -9,19 +9,50 @@ Open the Subscriptions tab. Click `Previous export` under the `Import from`. Sel
 
 <img src="https://github.com/takomine/HoloPipe/assets/108466107/c8c793aa-1c79-4fbd-82c8-3f49d12995bf" alt="subs" width="270" height="400">
 
-## Included channels (WIP)
+## Included channels
+
+> This section is still work in progress
 
 <details>
 
 <summary>Hololive JP</summary>
 
-  <details>
+| 0th Gen       | 1st Gen       | 2nd Gen       | GAMERS        | 3rd Gen       | 4th Gen       | 5th Gen       | 6th Gen       |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
-  <summary>0th Gen</summary>
+</details>
 
+<details>
 
-  </details>
-  
+<summary>Hololive EN</summary>
+
+| Myth          | CouncilRys    |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  | 
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+</details>
+
+<details>
+
+<summary>Hololive ID</summary>
+
+| 1st Gen       | 2nd Gen       | 3rd Gen       |
+| ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
+
 </details>
 
 
