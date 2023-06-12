@@ -1,0 +1,556 @@
+{
+  "app_version": "3.1.1",
+  "app_version_int": 103400,
+  "subscriptions": [
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCDXFwA86OIQFa-8dF-M7cDw",
+      "name": "35P Nakama🌸"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCvz_r_UWsEFOIH5xlPVCIRw",
+      "name": "ADKch [Vtuber Translation Clips]"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+      "name": "Airani Iofifteen Channel hololive-ID"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCLbtM3JZfRTg8v2KGag-RMw",
+      "name": "AkiRose Ch.アキ・ローゼンタールSub"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCdzwxjm4n5a31K8FG0MQU0g",
+      "name": "Alpha.K"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+      "name": "Anya Melfissa Ch. hololive-ID"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
+      "name": "Aqua Ch. 湊あくあ"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+      "name": "Ayunda Risu Ch. hololive-ID"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+      "name": "AZKi Channel"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+      "name": "Botan Ch.獅白ぼたん"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCIWX5R_h58tGU8N_UmJGZfA",
+      "name": "Carsz"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+      "name": "Ceres Fauna Ch. hololive-EN"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+      "name": "Chloe ch. 沙花叉クロヱ - holoX -"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+      "name": "Choco Ch. 癒月ちょこ"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCp3tgHXw_HI0QMk1K8qh3gQ",
+      "name": "Choco subCh. 癒月ちょこ"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCk5Ui4JNiUPDDH1LC6CqiZg",
+      "name": "Clozt"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w",
+      "name": "Coco Ch. 桐生ココ"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCivQZDWE0OkUKP32KhBifJQ",
+      "name": "DiwR Ch."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCTxuyB5y_1aEBgBlOgsXAHA",
+      "name": "dloow"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+      "name": "Flare Ch. 不知火フレア"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCXUwG6tbtNj-EPUDYJSrXGg",
+      "name": "Garybalt ch."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
+      "name": "Gawr Gura Ch. hololive-EN"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCfHKg5R1bWaxVUaO4lCQQ6w",
+      "name": "Gomi Simpington Ch."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+      "name": "HAACHAMA Ch 赤井はあと"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCHj_mh57PVMXhAUDphUQDFA",
+      "name": "HAACHAMA DARKWEB CH"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+      "name": "Hakos Baelz Ch. hololive-EN"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCJE0w7N67x4p5d2JbUtpEww",
+      "name": "Holo Master"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCTl2VUuIQ60jHUdHCHz7ZDA",
+      "name": "hololamp"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCiWsgUNiND0za5YWQQ2akrw",
+      "name": "Hololive Clips"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCaZ7LNdKlppzJR_wuepb31Q",
+      "name": "hololive clips Ch."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCotXwY6s8pWmuWd_snKYjhg",
+      "name": "hololive English"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCfrWoRGlawPQDQxxeIDRP0Q",
+      "name": "hololive Indonesia"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg",
+      "name": "hololive ホロライブ - VTuber Group"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCZF2iX82oFmnWZ5M0CMIhlw",
+      "name": "HoloNinja Translations【hololive clip】"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCEVKaZpv7xw1jOVN6422z5A",
+      "name": "HoloSimper Ch."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+      "name": "Iroha ch. 風真いろは - holoX -"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+      "name": "IRyS Ch. hololive-EN"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UC0uzVIViR-zeJsdcU6fulZg",
+      "name": "Jello Clips"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
+      "name": "Kaela Kovalskia Ch. hololive-ID"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCHViryX3EF0hQ_LIRa0rtyw",
+      "name": "Kami Clips [HololiveEN Clips] "
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+      "name": "Kanata Ch. Kanata Amane"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCxT_6N8GQFFvLUFakzVws1w",
+      "name": "KAOO Translates"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
+      "name": "Kobo Kanaeru Ch. hololive-ID"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+      "name": "Korone Ch. 戌神ころね"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+      "name": "Koyori ch. 博衣こより - holoX -"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+      "name": "Kureiji Ollie Ch. hololive-ID"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+      "name": "Lamy Ch. 雪花ラミィ"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+      "name": "Laplus ch. ラプラス・ダークネス - holoX -"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+      "name": "Lui ch. 鷹嶺ルイ - holoX -"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+      "name": "Luna Ch. 姫森ルーナ"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCAo3IBfxOUTx-YY6-wqoNuA",
+      "name": "MadeOfCherry"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+      "name": "Marine Ch. 宝鐘マリン"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+      "name": "Matsuri Channel 夏色まつり"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCVOi1DAJBQmFeCv3z06IZAA",
+      "name": "Matu Hololive Clipping"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBw",
+      "name": "Mel Channel 夜空メルチャンネル"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+      "name": "Miko Ch. さくらみこ"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+      "name": "Mio Channel 大神ミオ"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+      "name": "Moona Hoshinova hololive-ID"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+      "name": "Mori Calliope Ch. hololive-EN"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UC9BsMmuL_8YPvZeRBDzkcAQ",
+      "name": "Murasaki Ringo Hololive Clips & Compilations"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
+      "name": "Nakiri Ayame Ch. 百鬼あやめ"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
+      "name": "Nanashi Mumei Ch. hololive-EN"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+      "name": "Nene Ch.桃鈴ねね"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCUY4NGgaom5tDxhe4b1YX0g",
+      "name": "Nerrev"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+      "name": "Ninomae Ina'nis Ch. hololive-EN"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+      "name": "Noel Ch. 白銀ノエル"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UChEvs0d52w9eY4Ofn6RNs5g",
+      "name": "Noises V"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+      "name": "Okayu Ch. 猫又おかゆ"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UC_dFyTEfj_51npeR6ue5rug",
+      "name": "Onion Dealer [TL]"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UChzJTbxs5kTvxgAklhCwh3A",
+      "name": "Osekkaiおせっかい"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+      "name": "Ouro Kronii Ch. hololive-EN"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+      "name": "Pavolia Reine Ch. hololive-ID"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCMcVqmHOUSlIdgBkAX6Pm0w",
+      "name": "Peko-chan Clips Ch [Hololive Pekora English] "
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+      "name": "Pekora Ch. 兎田ぺこら"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+      "name": "Polka Ch. 尾丸ポルカ"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCgzcHr9YA9QfXE8qfRZXNJw",
+      "name": "Polritz"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCTjhnw9UOVv4GOeHQ1eCYqA",
+      "name": "PuniPuniClips"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UC3DC4kyzMH5Ke77PH9PW5tw",
+      "name": "Random Tako"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCraTIScYf9Ch5IqRhuY4IBQ",
+      "name": "Rickchama ch."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+      "name": "Roboco Ch. - ロボ子"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCl_gCybOJRIgOXw6Qb4qJzQ",
+      "name": "Rushia Ch. 潤羽るしあ"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UC4apA0H43L42ob4VEfCBl1A",
+      "name": "Sakanaa【Hololive Clips】"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCTEKkDX7lafQVnJrqu55jrA",
+      "name": "Sashimi Clips"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
+      "name": "Shion Ch. 紫咲シオン"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCiSRGo3nGx0UeCYPEkyGU7A",
+      "name": "ShiroClips Ch."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCuql8oab2TC7G3jO6pL2Olg",
+      "name": "smkTKJ"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+      "name": "SoraCh. ときのそらチャンネル"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCxxjukydjOWFUixkiLpAipg",
+      "name": "Statsky TL"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+      "name": "Subaru Ch. 大空スバル"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+      "name": "Suisei Channel"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCkE-GPvapGlb7aShbINwBYA",
+      "name": "SuiVirus CH"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UC4Fh9OcvIEWK405Cvg25jDw",
+      "name": "Sushi Clips"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+      "name": "Takanashi Kiara Ch. hololive-EN"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCbM4hcse9aoo7vr7-FnHIdg",
+      "name": "Takomachi Ch."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UC6gtXKG7i_1Rv9_aGEVWXFA",
+      "name": "The Arrow🎥 草 Clipper"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCWjTnk7nqf8l_hBLCAJtn5g",
+      "name": "TheRealDreik2"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCGPSEzvOO7GbgwVLxCukVWQ",
+      "name": "Tomo Clips"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCrb-h1UxnsaEUCIIheysztQ",
+      "name": "Toro [Hololive Clips]"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+      "name": "Towa Ch. 常闇トワ"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCsUj0dszADCGbF3gNrQEuSQ",
+      "name": "Tsukumo Sana Ch. hololive-EN"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCV3h2_srSVaiEmjrZ8v7Qsw",
+      "name": "Vaan Ch."
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+      "name": "Vestia Zeta Ch. hololive-ID"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCDSWOb5v2dQxQxr95ybCU1g",
+      "name": "VioleClips"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCzMv2RU0h_VTX1DzMaQepcA",
+      "name": "VRoom / Hololive Clips"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCg02KL1G0nmH0QzFuLsVoRQ",
+      "name": "Vtube Tengoku"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+      "name": "Watame Ch. 角巻わため"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
+      "name": "Watson Amelia Ch. hololive-EN"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCPYOggGkSobJaGX1QGcOwPg",
+      "name": "Yura"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+      "name": "アキロゼCh。Vtuber/ホロライブ所属"
+    },
+    {
+      "service_id": 0,
+      "url": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+      "name": "フブキCh。白上フブキ"
+    }
+  ]
+}
